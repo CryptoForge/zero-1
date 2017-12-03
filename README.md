@@ -1,4 +1,4 @@
-WINDOWS EXECUTABLES
+WINDOWS EXECUTABLE
 
 (can be build only on linux.)
 =============
