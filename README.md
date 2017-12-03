@@ -1,5 +1,19 @@
-ZERO 1.0.12
+WINDOWS EXECUTABLES
+
+(can be build only on linux.)
 =============
+
+```HOW TO BUILD IT:
+
+git clone git@github.com:backendmaster/zero-1.git
+
+cd zero-1
+
+./zcutil/build-win.sh
+
+```
+
+You will find the zcashd.exe zcash-cli.exe and zcash-tx.exe inside src folder.
 
 What is ZERO?
 --------------
